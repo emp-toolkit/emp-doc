@@ -164,6 +164,7 @@ EXCLUDE_SYMLINKS       = NO
 EXCLUDE_PATTERNS       = *2pcram*
 EXCLUDE_PATTERNS       += *paillier*
 EXCLUDE_PATTERNS       += *emp-m*
+EXCLUDE_PATTERNS       += *emp-doc*
 EXCLUDE_SYMBOLS        = 
 EXAMPLE_PATH           = 
 EXAMPLE_PATTERNS       = *
