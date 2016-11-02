@@ -1,7 +1,7 @@
 var NAVTREE =
 [
   [ "emp-toolkit", "index.html", [
-    [ "em-doc", "md___users_wangxiao_git_emp-toolkit_emp-doc__r_e_a_d_m_e.html", null ],
+    [ "em-doc", "md__r_e_a_d_m_e.html", null ],
     [ "emp-input-validity", "md___users_wangxiao_git_emp-toolkit_emp-input-validity__r_e_a_d_m_e.html", null ],
     [ "emp-ot", "md___users_wangxiao_git_emp-toolkit_emp-ot__r_e_a_d_m_e.html", null ],
     [ "emp-tool", "md___users_wangxiao_git_emp-toolkit_emp-readme__r_e_a_d_m_e.html", null ],

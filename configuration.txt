@@ -7,7 +7,7 @@ DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = emp-toolkit
 PROJECT_NUMBER         = 
 PROJECT_BRIEF          = 
-PROJECT_LOGO           = ../art/logo-full-doxygen.png
+PROJECT_LOGO           = ./logo-full-doxygen.png
 OUTPUT_DIRECTORY       = ./
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
@@ -112,7 +112,7 @@ WARN_LOGFILE           =
 #---------------------------------------------------------------------------
 # Configuration options related to the input files
 #---------------------------------------------------------------------------
-INPUT                  = ../../
+INPUT                  = ../
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.c \
                          *.cc \
