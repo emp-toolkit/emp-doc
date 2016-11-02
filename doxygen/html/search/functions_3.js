@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['change_5fbase',['change_base',['../utils_8h.html#a474d9fc6a062e257079dbe9b9aff2502',1,'utils.h']]],
+  ['check',['check',['../input-check-cutoff_8cpp.html#aa604a0800116de3a2c95ae544fc60343',1,'input-check-cutoff.cpp']]],
+  ['check1',['check1',['../input-dev_8cpp.html#aadb6a378e395172cbe1ee0925b1106e1',1,'input-dev.cpp']]],
+  ['check2',['check2',['../input-dev_8cpp.html#ab919188b5cbbecb574351eeede4986b8',1,'input-dev.cpp']]],
+  ['check_5feq',['check_eq',['../class_elgamal.html#a15681113671852465381606f5b9c225e',1,'Elgamal']]],
+  ['checkf1alice',['checkf1Alice',['../class_i_v.html#a31459cdb07d35917d5a638f178223f27',1,'IV']]],
+  ['checkf1bob',['checkf1Bob',['../class_i_v.html#acf5add7b42b2d545e90a5cf9944cf82b',1,'IV']]],
+  ['checkf2alice',['checkf2Alice',['../class_i_v.html#a0950fba167def6206d76a6a1123c2e04',1,'IV']]],
+  ['checkf2bob',['checkf2Bob',['../class_i_v.html#a356c96812187ce0d4bd1db17a4bbf1d1',1,'IV']]],
+  ['checkio',['CheckIO',['../class_check_i_o.html#ab65699a564c4eaafc41467f45fd3e7c9',1,'CheckIO']]],
+  ['circuit',['circuit',['../class_xor_tree.html#a3f669624bfe400630850716046096cfc',1,'XorTree']]],
+  ['circuitfile',['CircuitFile',['../class_circuit_file.html#a9531355f85784d3cb07621619db1a25e',1,'CircuitFile']]],
+  ['circuitn',['circuitN',['../class_xor_tree.html#a406396309c9b8f76b5706225aba1ae35',1,'XorTree']]],
+  ['clear',['clear',['../class_mem_i_o.html#a18869b6fa0e4b8ae87dbbba9651a9065',1,'MemIO']]],
+  ['cmp_5fswap',['cmp_swap',['../number_8h.html#a233c02e8010f3e9f62160b3fc5868c05',1,'number.h']]],
+  ['commit',['commit',['../class_elgamal.html#a3baff0f244c800c28c0d41205020f856',1,'Elgamal::commit()'],['../class_commitment.html#a2149ce3516c3454b803ab97f45439a6e',1,'Commitment::commit()']]],
+  ['compute',['compute',['../class_circuit_file.html#a096f0e05e7c97518b079b85891a42698',1,'CircuitFile::compute()'],['../input-check-malicious_8cpp.html#ab973317ef30b5d90c61554e438b121a0',1,'compute(Bit *res, Bit *in, Bit *in2):&#160;input-check-malicious.cpp'],['../input-dev_8cpp.html#ab973317ef30b5d90c61554e438b121a0',1,'compute(Bit *res, Bit *in, Bit *in2):&#160;input-dev.cpp']]],
+  ['compute1',['compute1',['../input-check-cutoff_8cpp.html#a86b07290e159bb6ff795ccd4097aa794',1,'input-check-cutoff.cpp']]],
+  ['compute2',['compute2',['../input-check-cutoff_8cpp.html#a2d1e65ee8625dfb3ac888f2ea76d590f',1,'input-check-cutoff.cpp']]],
+  ['condneg',['condNeg',['../integer_8hpp.html#ac59a05163afd19623f691bca100409e4',1,'integer.hpp']]],
+  ['cot_5frecv_5fpost',['cot_recv_post',['../class_s_h_o_t_extension.html#a1d9127046d5dedcc7b07bf59d52c2427',1,'SHOTExtension']]],
+  ['cot_5fsend_5fpost',['cot_send_post',['../class_s_h_o_t_extension.html#af343b3dc6bdc2f8ee1dcdc58d4ae4a13',1,'SHOTExtension']]]
+];
