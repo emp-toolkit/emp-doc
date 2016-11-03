@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"structgarble__circuit.html#a9f324052d000ed1fa3339f41cd213584":[6,0,11,9],
+"structgarble__circuit.html#aaa4c4983bb1401816c1a39c9336fcfb4":[6,0,11,10],
+"structgarble__circuit.html#abac68013d6e9a984df840422e253b153":[6,0,11,2],
+"structgarble__fixed__wire.html":[6,0,12],
 "structgarble__fixed__wire.html#a61f61fae6823013387ee3f7d08780af0":[6,0,12,1],
 "structgarble__fixed__wire.html#a7885682b461b072621fde9ab08d7f743":[6,0,12,0],
 "structgarble__gate.html":[6,0,13],

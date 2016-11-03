@@ -8,8 +8,8 @@ var indexSectionsWithContent =
   5: "bcdems",
   6: "gr",
   7: "go",
-  8: "_abcdefghimnopsxz",
-  9: "io",
+  8: "_abcdefghimnopstxz",
+  9: "bio",
   10: "e"
 };
 

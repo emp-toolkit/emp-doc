@@ -11,7 +11,7 @@ var searchData=
   ['checkf2bob',['checkf2Bob',['../class_i_v.html#a356c96812187ce0d4bd1db17a4bbf1d1',1,'IV']]],
   ['checkio',['CheckIO',['../class_check_i_o.html#ab65699a564c4eaafc41467f45fd3e7c9',1,'CheckIO']]],
   ['circuit',['circuit',['../class_xor_tree.html#a3f669624bfe400630850716046096cfc',1,'XorTree']]],
-  ['circuitfile',['CircuitFile',['../class_circuit_file.html#a9531355f85784d3cb07621619db1a25e',1,'CircuitFile']]],
+  ['circuitfile',['CircuitFile',['../class_circuit_file.html#a9531355f85784d3cb07621619db1a25e',1,'CircuitFile::CircuitFile(const char *file)'],['../class_circuit_file.html#ada52e90d66d704eea410a9c508a4feb8',1,'CircuitFile::CircuitFile(const CircuitFile &amp;cf)']]],
   ['circuitn',['circuitN',['../class_xor_tree.html#a406396309c9b8f76b5706225aba1ae35',1,'XorTree']]],
   ['clear',['clear',['../class_mem_i_o.html#a18869b6fa0e4b8ae87dbbba9651a9065',1,'MemIO']]],
   ['cmp_5fswap',['cmp_swap',['../number_8h.html#a233c02e8010f3e9f62160b3fc5868c05',1,'number.h']]],

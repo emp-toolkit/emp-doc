@@ -147,5 +147,6 @@ var menudata={children:[
 {text:'o',url:'globals_defs.html#index_o'},
 {text:'p',url:'globals_defs.html#index_p'},
 {text:'s',url:'globals_defs.html#index_s'},
+{text:'t',url:'globals_defs.html#index_t'},
 {text:'x',url:'globals_defs.html#index_x'},
 {text:'z',url:'globals_defs.html#index_z'}]}]}]}]}

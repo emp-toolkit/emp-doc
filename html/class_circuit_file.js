@@ -1,6 +1,7 @@
 var class_circuit_file =
 [
     [ "CircuitFile", "class_circuit_file.html#a9531355f85784d3cb07621619db1a25e", null ],
+    [ "CircuitFile", "class_circuit_file.html#ada52e90d66d704eea410a9c508a4feb8", null ],
     [ "~CircuitFile", "class_circuit_file.html#a1cacc20e58df97788469b45ab429a331", null ],
     [ "compute", "class_circuit_file.html#a096f0e05e7c97518b079b85891a42698", null ],
     [ "table_size", "class_circuit_file.html#a732687e82a730d9bfc7cc852dfaf986f", null ],

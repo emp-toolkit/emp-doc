@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"garble_2block_8h.html#a895bc02edcaa0a0798728f538af35eb5":[7,0,3,2,1,11],
 "garble_2block_8h.html#a9417de4be4701bd27d52e89a0ceeac89":[7,0,3,2,1,2],
 "garble_2block_8h.html#a9fb9a79c32958375aa8573e0bf37bcf6":[7,0,3,2,1,13],
 "garble_2block_8h.html#aaba20a9be509e35b1ecaef329d3ce3fe":[7,0,3,2,1,1],
@@ -55,8 +54,8 @@ var NAVTREEINDEX4 =
 "garble__gate__privacy__free_8h_source.html":[7,0,3,2,4],
 "garble__gate__standard_8h.html":[7,0,3,2,5],
 "garble__gate__standard_8h_source.html":[7,0,3,2,5],
-"globals.html":[7,1,0],
 "globals.html":[7,1,0,0],
+"globals.html":[7,1,0],
 "globals_a.html":[7,1,0,1],
 "globals_b.html":[7,1,0,2],
 "globals_c.html":[7,1,0,3],
@@ -84,10 +83,15 @@ var NAVTREEINDEX4 =
 "globals_w.html":[7,1,0,19],
 "globals_x.html":[7,1,0,20],
 "globals_z.html":[7,1,0,21],
+"group___b_p.html":[5,2],
+"group___b_p.html#ga76fbd0364c5ce56d51e33dbf4adc3643":[5,2,5],
+"group___b_p.html#ga76fbd0364c5ce56d51e33dbf4adc3643":[7,0,3,5,1,0],
+"group___b_p.html#gad6ff8abfdae07ce92ed2245f801fec34":[5,2,6],
+"group___b_p.html#gad6ff8abfdae07ce92ed2245f801fec34":[7,0,3,5,1,1],
 "group___i_o.html":[5,1],
 "group___o_t.html":[5,0],
-"group___o_t.html#gab125e533d88ec5cc8c2a2537112f36ba":[5,0,8],
 "group___o_t.html#gab125e533d88ec5cc8c2a2537112f36ba":[7,0,1,1,2,1],
+"group___o_t.html#gab125e533d88ec5cc8c2a2537112f36ba":[5,0,8],
 "group___o_t.html#gacc46790c671188444537f7ac9dd3ac94":[7,0,1,1,2,0],
 "group___o_t.html#gacc46790c671188444537f7ac9dd3ac94":[5,0,7],
 "halfgate__eva_8h.html":[7,0,3,3,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX4 =
 "structgarble__circuit.html#a3639a33ddf9d8c0d61588465273518c8":[6,0,11,1],
 "structgarble__circuit.html#a4d6bc985ea07f237266e74d6668d335f":[6,0,11,3],
 "structgarble__circuit.html#a59b7e8c91fdf4bb909ef53036b85969d":[6,0,11,0],
-"structgarble__circuit.html#a79f4f92f1df8e9929c6156cc11de6fec":[6,0,11,8],
-"structgarble__circuit.html#a9f324052d000ed1fa3339f41cd213584":[6,0,11,9],
-"structgarble__circuit.html#aaa4c4983bb1401816c1a39c9336fcfb4":[6,0,11,10],
-"structgarble__circuit.html#abac68013d6e9a984df840422e253b153":[6,0,11,2],
-"structgarble__fixed__wire.html":[6,0,12]
+"structgarble__circuit.html#a79f4f92f1df8e9929c6156cc11de6fec":[6,0,11,8]
 };

@@ -21,7 +21,7 @@ var searchData=
   ['circuit_5ffile_2ecpp',['circuit_file.cpp',['../circuit__file_8cpp.html',1,'']]],
   ['circuit_5ffile_2eh',['circuit_file.h',['../circuit__file_8h.html',1,'']]],
   ['circuit_5ffile_5flocation',['circuit_file_location',['../input-check-malicious_8cpp.html#a32303458d819a2554025906211c1635e',1,'circuit_file_location():&#160;input-check-malicious.cpp'],['../circuit__file_8cpp.html#a32303458d819a2554025906211c1635e',1,'circuit_file_location():&#160;circuit_file.cpp']]],
-  ['circuitfile',['CircuitFile',['../class_circuit_file.html',1,'CircuitFile'],['../class_circuit_file.html#a9531355f85784d3cb07621619db1a25e',1,'CircuitFile::CircuitFile()']]],
+  ['circuitfile',['CircuitFile',['../class_circuit_file.html',1,'CircuitFile'],['../class_circuit_file.html#a9531355f85784d3cb07621619db1a25e',1,'CircuitFile::CircuitFile(const char *file)'],['../class_circuit_file.html#ada52e90d66d704eea410a9c508a4feb8',1,'CircuitFile::CircuitFile(const CircuitFile &amp;cf)']]],
   ['circuitn',['circuitN',['../class_xor_tree.html#a406396309c9b8f76b5706225aba1ae35',1,'XorTree']]],
   ['clear',['clear',['../class_mem_i_o.html#a18869b6fa0e4b8ae87dbbba9651a9065',1,'MemIO']]],
   ['cmakeccompilerid_2ec',['CMakeCCompilerId.c',['../emp-ot_2_c_make_files_23_82_82_2_compiler_id_c_2_c_make_c_compiler_id_8c.html',1,'']]],
@@ -43,7 +43,7 @@ var searchData=
   ['cmp_5fswap',['cmp_swap',['../number_8h.html#a233c02e8010f3e9f62160b3fc5868c05',1,'number.h']]],
   ['cnt',['cnt',['../class_o_t_c_o.html#a6de051127e317bd1ff992f04746e83cb',1,'OTCO::cnt()'],['../class_o_t_ideal.html#acbf7ba028edfd78b59d39dd04428142f',1,'OTIdeal::cnt()'],['../class_o_t_n_p.html#a5333e3a3665ba351d47400c3bbe6dfc6',1,'OTNP::cnt()']]],
   ['co_2eh',['co.h',['../co_8h.html',1,'']]],
-  ['com',['com',['../class_elgamal.html#ab717d9525fad5273a6da9b90b6ece97a',1,'Elgamal::com()'],['../class_m_o_t_extension___a_l_s_z.html#abeb08e7c01758970ff3a9d3d04fe8c00',1,'MOTExtension_ALSZ::com()'],['../com_8h.html#a76fbd0364c5ce56d51e33dbf4adc3643',1,'Com():&#160;com.h']]],
+  ['com',['com',['../class_elgamal.html#ab717d9525fad5273a6da9b90b6ece97a',1,'Elgamal::com()'],['../class_m_o_t_extension___a_l_s_z.html#abeb08e7c01758970ff3a9d3d04fe8c00',1,'MOTExtension_ALSZ::com()'],['../group___b_p.html#ga76fbd0364c5ce56d51e33dbf4adc3643',1,'Com():&#160;com.h']]],
   ['com_2eh',['com.h',['../com_8h.html',1,'']]],
   ['commit',['commit',['../class_elgamal.html#a3baff0f244c800c28c0d41205020f856',1,'Elgamal::commit()'],['../class_commitment.html#a2149ce3516c3454b803ab97f45439a6e',1,'Commitment::commit()']]],
   ['commitment',['Commitment',['../class_commitment.html',1,'Commitment'],['../class_i_v.html#a31d1c72a1d8423a9bb0e08f44283ea76',1,'IV::commitment()']]],
@@ -61,7 +61,6 @@ var searchData=
   ['constant',['constant',['../class_half_gate_eva_3_01_t_00_01_r_t_ckt_opt_1_1off_01_4.html#a810616706715f052d8600a2ee472399c',1,'HalfGateEva&lt; T, RTCktOpt::off &gt;::constant()'],['../class_half_gate_gen_3_01_t_00_01_r_t_ckt_opt_1_1off_01_4.html#ae4b92a275de2cc22e94878e0416a2cab',1,'HalfGateGen&lt; T, RTCktOpt::off &gt;::constant()'],['../class_privacy_free_eva.html#a50ffbd5e93ad55bec8f029fdd3673930',1,'PrivacyFreeEva::constant()'],['../class_privacy_free_gen.html#af02bd02254c53356acf9c30c0925defe',1,'PrivacyFreeGen::constant()']]],
   ['cot_5frecv_5fpost',['cot_recv_post',['../class_s_h_o_t_extension.html#a1d9127046d5dedcc7b07bf59d52c2427',1,'SHOTExtension']]],
   ['cot_5fsend_5fpost',['cot_send_post',['../class_s_h_o_t_extension.html#af343b3dc6bdc2f8ee1dcdc58d4ae4a13',1,'SHOTExtension']]],
-  ['count_5fio',['COUNT_IO',['../config_8h.html#aecb3a679a4b07ffdd0ff33b33b85f02f',1,'config.h']]],
   ['counter',['counter',['../class_p_r_g.html#abbf584745c33fc90ba28cc4af194ce1a',1,'PRG']]],
   ['cur_5fparty',['cur_party',['../class_backend.html#a8071a023768eccaef6b6050440d3b75e',1,'Backend']]]
 ];

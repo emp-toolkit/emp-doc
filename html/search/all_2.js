@@ -41,6 +41,7 @@ var searchData=
   ['bool_5fto64',['bool_to64',['../utils_8hpp.html#aeeeff4214792cc32a142fd953eb5340f',1,'utils.hpp']]],
   ['bool_5fto_5fint',['bool_to_int',['../utils_8h.html#a83478914b39450a9a3c429dbbfa215a9',1,'bool_to_int(const bool *data, size_t len=0):&#160;utils.hpp'],['../utils_8hpp.html#abc3ce69f7e6eaf6c3be3e23a93e7e2b6',1,'bool_to_int(const bool *data, size_t len):&#160;utils.hpp']]],
   ['bool_5fto_5fuint8',['bool_to_uint8',['../class_m_o_t_extension___a_l_s_z.html#a679eb583b2111be60f62f3a5351da938',1,'MOTExtension_ALSZ']]],
+  ['basic_20primitives',['Basic Primitives',['../group___b_p.html',1,'']]],
   ['buffer',['buffer',['../class_check_i_o.html#ad27950b171bbb070e2e10881d2c4ce9c',1,'CheckIO::buffer()'],['../class_file_i_o.html#a5d488232cec5dfc12a2938519a5348cf',1,'FileIO::buffer()'],['../class_mem_i_o.html#a6b392876ae789bfd4ea032c582dc9153',1,'MemIO::buffer()'],['../class_net_i_o.html#a28e34fbfa26d41fc047b4f2cf9717336',1,'NetIO::buffer()']]],
   ['buffer_5fsize',['buffer_size',['../class_o_t_iterated.html#a45cc73ade29aac990b863fdb3d5375fd',1,'OTIterated']]],
   ['bytes_5fsent',['bytes_sent',['../class_file_i_o.html#a0223eb92f09bdd9e367ecd468c09c588',1,'FileIO']]]
